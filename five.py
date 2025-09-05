@@ -1,6 +1,6 @@
 from re import search
 
-fruits = ['apple', 'banana', 'cherry']
+# fruits = ['apple', 'banana', 'cherry']
 # print(fruits[0])
 #
 # a = fruits[0]
@@ -111,9 +111,9 @@ fruits = ['apple', 'banana', 'cherry']
 #     print(f'Итерация {i}')
 
 
-# fruits = ['apple', 'banana', 'cherry', 'apple']
-# for i in range (len(fruits)):
-#     print(f'Фрукти {i+1}: {fruits[i]}')
+fruits = ['apple', 'banana', 'cherry', 'apple']
+for i in range (len(fruits)):
+    print(f'Фрукти {i+1}: {fruits[i]}')
 
 
 # count=0
@@ -123,32 +123,33 @@ fruits = ['apple', 'banana', 'cherry']
 
 
 in_num_A = int(input('Enter number A: '))
-in_num_B = int(input('Enter number B: '))
-
-sum = 0
-i = in_num_A
-while i <= in_num_B:
-    sum += i
-    i += 1
-
-print(f"Сумма чисел от {in_num_A} до {in_num_B}: {sum}")
-
-
-fruits = ["apple", "banana", "cherry", "banana"]
-search = "banana"
-
-print(search[4])
-
-
-for i in range(len(fruits)):
-    if fruits[i] == search:
-        print(f"Индекс элемента {search}: {i}")
-        break
-    i += 1
-
-
-print(search[4])
-
+# in_num_B = int(input('Enter number B: '))
+#
+# sum = 0
+# i = in_num_A
+# while i <= in_num_B:
+#     sum += i
+#     i += 1
+#
+# print(f"Сумма чисел от {in_num_A} до {in_num_B}: {sum}")
+#
+#
+#
+# fruits = ["apple", "banana", "cherry", "banana"]
+# search = "banana"
+#
+# print(search[4])
+#
+#
+# for i in range(len(fruits)):
+#     if fruits[i] == search:
+#         print(f"Индекс элемента {search}: {i}")
+#         break
+#     i += 1
+#
+#
+# print(search[4])
+#
 
 
 
