@@ -1,0 +1,31 @@
+{
+  "data": {
+    "cities": [
+      {
+        "name": "Прага",
+        "country": "Чехия",
+        "population": 1300000
+      },
+      {
+        "name": "Берлин",
+        "country": "Германия",
+        "population": 3700000
+      },
+      {
+        "name": "Киев",
+        "country": "Украина",
+        "population": 2884000
+      },
+      {
+        "name": "Варшава",
+        "country": "Польша",
+        "population": 1793579
+      },
+      {
+        "name": "Париж",
+        "country": "Франция",
+        "population": 2148000
+      }
+    ]
+  }
+}
