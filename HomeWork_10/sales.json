@@ -1,0 +1,34 @@
+{
+  "sales": [
+    {
+      "sale_id": 1,
+      "product": "Laptop",
+      "quantity": 2,
+      "total": 2000
+    },
+    {
+      "sale_id": 2,
+      "product": "Mouse",
+      "quantity": 5,
+      "total": 100
+    },
+    {
+      "sale_id": 3,
+      "product": "Keyboard",
+      "quantity": 3,
+      "total": 150
+    },
+    {
+      "sale_id": 4,
+      "product": "Laptop",
+      "quantity": 1,
+      "total": 1000
+    },
+    {
+      "sale_id": 5,
+      "product": "Mouse",
+      "quantity": 2,
+      "total": 40
+    }
+  ]
+}
